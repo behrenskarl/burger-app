@@ -6,7 +6,7 @@
 
 This website utilizes npm and node packages, MySQL, and ORM/handlebars in conjunction to create a webpage that calls from a created database that the user can input and store new data and delete that data as well. This process is shown by using the example with burgers as the data. Have you created a burger that either you would like to eat or have eaten? Input that data on the html and watch that info get stored as a list on the html page. Then press the buttons next to any burger to either 'devour', 'eat again', or 'delete' and watch the burgers move or delete on the page. This is all done with a backend database with MySQL and API commands. Devour those burgers! 
 
-![Video](./assets/img/burger-app-functionality.gif)
+![Video](./public/assets/img/burger-app-functionality.gif)
 
 ## Table of Contents:
 - [installation](#installation)
