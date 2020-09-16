@@ -1,7 +1,4 @@
-
-CREATE database burger_db;
-
-USE burger_db;
+USE tpepqnyl9zph4xsl
 
 CREATE TABLE burgers (
     id INT AUTO_INCREMENT PRIMARY KEY,
